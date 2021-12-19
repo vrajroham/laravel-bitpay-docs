@@ -14,8 +14,8 @@ const config = {
   title: 'Laravel Bitpay',
   tagline:
     'LaravelBitPay enables you and your business to transact in Bitcoin, Bitcoin Cash and 10+ other BitPay-supported cryptocurrencies within your Laravel application.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://laravel-bitpay.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
